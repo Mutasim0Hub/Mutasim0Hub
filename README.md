@@ -38,9 +38,9 @@ I love working on real-world projects, exploring smart contracts, and learning n
 ---
 
 💼 Projects
-- 🔗 [Project 1](#) - AI-based Security Tool  
-- 🔗 [Project 2](#) - Web App Penetration Testing Framework  
-- 🔗 [Project 3](#) - Smart Contract Audit Tools
+- 🔗 [Project 1](#) - 
+- 🔗 [Project 2](#) - 
+- 🔗 [Project 3](#) -
 
 ---
 
