@@ -38,10 +38,13 @@ I love working on real-world projects, exploring smart contracts, and learning n
 ---
 
 💼 Projects
-- 🔗 [Project 1](#) - 
-- 🔗 [Project 2](#) - 
-- 🔗 [Project 3](#) -
-
+- 🔗 [HexDetective](https://github.com/Mutasim0Hub/HexDetective) - 
+- 🔗 [ForensBrowse](https://github.com/Mutasim0Hub/ForensBrowse) - 
+- 🔗 [WebRecon](https://github.com/Mutasim0Hub/WebRecon) -
+- 🔗 [PortScanHak](https://github.com/Mutasim0Hub/PortScanHak) -
+- 🔗 [LogHawk](https://github.com/Mutasim0Hub/LogHawk) -
+- 🔗 [PassHawk-Online](https://github.com/Mutasim0Hub/PassHawk-Online) -
+- 🔗 [PassHawk](https://github.com/Mutasim0Hub/PassHawk) -
 ---
 
 ⚡ Fun Fact
