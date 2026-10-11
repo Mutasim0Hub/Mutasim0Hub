@@ -46,6 +46,7 @@ I love working on real-world projects, exploring smart contracts, and learning n
 - 🔗 [PassHawk-Online](https://github.com/Mutasim0Hub/PassHawk-Online) -
 - 🔗 [PassHawk](https://github.com/Mutasim0Hub/PassHawk) -
 - 🔗 [NetWatch](https://github.com/Mutasim0Hub/NetWatch.git) -
+- 🔗 [cmd-risk-ml](https://github.com/Mutasim0Hub/cmd-risk-ml) -
 ---
 
 ⚡ Fun Fact
